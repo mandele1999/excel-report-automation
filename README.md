@@ -61,7 +61,7 @@ excel_report_automation/
 
 - `output/final_report.xlsx` — Clean, summary report with KPIs
 - `output/summary.pdf` — PDF version with embedded charts
-
+![screenshots\excel_report.jpg]
 📸 Screenshots available in the `/screenshots` folder (add yours).
 
 ### Executable Build
