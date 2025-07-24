@@ -40,7 +40,6 @@ excel_report_automation/
 
 ### How It Works
 
-```yaml
 1. Drop raw Excel files into `data/`
 2. Launch GUI:
 
