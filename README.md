@@ -103,6 +103,6 @@ pip install -r requirements.txt
 
 ### License
 
-MIT - feel free to adapt, fork, and build on this.
+[MIT](LICENSE) - feel free to adapt, fork, and build on this.
 
 Open to feedback or future enhancements. Let's connect.
