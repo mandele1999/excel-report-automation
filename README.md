@@ -62,9 +62,7 @@ excel_report_automation/
 - `output/final_report.xlsx` — Clean, summary report with KPIs
 - `output/summary.pdf` — PDF version with embedded charts
 
-### Screenshot
-
-#### Example Screenshots
+### Screenshots
 
 | Excel Report Output | GUI Interface | PDF Report |
 |:-------------------:|:-------------:|:----------:|
