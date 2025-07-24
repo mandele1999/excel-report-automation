@@ -17,9 +17,9 @@ An end-to-end Python tool to automate Excel-based reporting workflows for small 
 
 ```arduino
 excel_report_automation/
-├── data/
+├── data/                  # Sample or real input Excel files
 │   └── [sample Excel files here]
-├── output/
+├── output/                # Output reports (Excel & PDF)
 │   ├── final_report.xlsx
 │   └── final_report.pdf
 ├── charts/
@@ -27,14 +27,14 @@ excel_report_automation/
 ├── config/
 │   └── settings.json (optional for customization)
 ├── src/
-│   ├── main.py
-│   ├── reader.py
+│   ├── main.py              # CLI entry point
+│   ├── gui_main.py          # GUI entry point
 │   ├── cleaner.py
 │   ├── plotter.py
 │   ├── reader.py.py
 │   ├── analyzer.py
 │   ├── reporter.py
-│   └── emailer.py (optional)
+│   └── gui.py
 └── README.md
 ```
 
