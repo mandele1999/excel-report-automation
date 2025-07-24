@@ -68,7 +68,7 @@ excel_report_automation/
 
 | Excel Report Output | GUI Interface | PDF Report |
 |:-------------------:|:-------------:|:----------:|
-| ![Excel Report Automation Tool Screenshot1](screenshots/excel_report.jpg) | ![Excel Report Automation Tool Screenshot2](screenshots/gui_diag.jpg) | ![Excel Report Automation Tool Screenshot3](screenshots/pdf_report.jpg) |
+| ![Excel Report Automation Tool Screenshot1](screenshots/excel_report.jpg) | ![Excel Report Automation Tool Screenshot2](screenshots/gui_diag.png) | ![Excel Report Automation Tool Screenshot3](screenshots/pdf_report.png) |
 
 📸 Screenshots available in the `/screenshots` folder (add yours).
 
