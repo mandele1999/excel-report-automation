@@ -64,7 +64,9 @@ excel_report_automation/
 
 ### Screenshot
 
-![Excel Report Automation Tool Screenshot](screenshots/excel_report.jpg)
+![Excel Report Automation Tool Screenshot1](screenshots/excel_report.jpg)
+![Excel Report Automation Tool Screenshot2](screenshots/gui_diag.jpg)
+![Excel Report Automation Tool Screenshot3](screenshots/pdf_report.jpg)
 
 📸 Screenshots available in the `/screenshots` folder (add yours).
 
