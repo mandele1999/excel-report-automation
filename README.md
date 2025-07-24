@@ -11,7 +11,7 @@ An end-to-end Python tool to automate Excel-based reporting workflows for small 
 - Export cleaned data and insights to Excel and PDF
 - [Optional] Email the report using `yagmail`
 - Tkinter-based GUI with progress bar and email input
-- 🪄 Ready for one-click packaging as a `.exe
+- 🪄 Ready for one-click packaging as a `.exe`
 
 ## Repository Structure
 
