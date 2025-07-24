@@ -66,7 +66,9 @@ excel_report_automation/
 
 ![Excel Report Automation Tool Screenshot1](screenshots/excel_report.jpg)
 
+
 ![Excel Report Automation Tool Screenshot2](screenshots/gui_diag.jpg)
+
 
 ![Excel Report Automation Tool Screenshot3](screenshots/pdf_report.jpg)
 
@@ -74,7 +76,7 @@ excel_report_automation/
 
 ### Executable Build
 
-This tool has been packaged into a .exe using PyInstaller for clients without Python.
+This tool has been packaged into an .exe using PyInstaller for clients without Python.
 **Not included here.**
 
 Build instructions (if needed):
